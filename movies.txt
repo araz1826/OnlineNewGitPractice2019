@@ -1,3 +1,5 @@
 titanic
 lord of the rings
 frozen
+avatar
+home alone
