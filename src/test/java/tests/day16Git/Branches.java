@@ -10,4 +10,10 @@ public class Branches {
     * when u have 2 branches you can merge them
     * When you create a new branch it means u re getting new directory
     * */
+
+    //Interview:
+   /* everyone has their own branch and we do not commit to master branch directly. Instead we work our branches.
+        Master branch has latest stable and verified code.
+        Once I created my task, I created a pull request and that will be verified by test lead/other tester
+    */
 }
